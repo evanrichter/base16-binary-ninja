@@ -10,3 +10,8 @@ Ninja](https://binary.ninja)
 After cloning this repo, simply copy the .theme files desired into your
 binaryninja themes folder. On Linux, this is `~/.binaryninja/themes/`.
 Themes may be selected from Edit->Preferences->Color theme.
+
+## Color issues?
+
+Please let me know what theme and what you think looks bad, or wrong
+about it! Open an issue here and I'd be glad to help.
