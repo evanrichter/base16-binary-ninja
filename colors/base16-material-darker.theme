@@ -83,7 +83,7 @@
 
         "linearDisassemblyFunctionHeaderColor": "base00",
         "linearDisassemblyBlockColor":          "base00",
-        "linearDisassemblyNoteColor":           "base0F",
+        "linearDisassemblyNoteColor":           "base01",
         "linearDisassemblySeparatorColor":      "base03",
 
         "stringColor":                          "base0B",
